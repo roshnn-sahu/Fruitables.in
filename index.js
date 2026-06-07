@@ -1,3 +1,4 @@
+//active button func
 let filterBtn = document.querySelectorAll(".cetogery button");
 let cards = document.querySelectorAll(".fruit-list");
 console.log(filterBtn)
